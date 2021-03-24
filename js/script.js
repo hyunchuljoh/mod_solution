@@ -309,7 +309,7 @@ function buildMenuItemsViewHtml(categoryMenuItems,
 
 
 // Appends price with '$' if price exists
-function insertItemPrice(html,
+function insertItemPrice(html, 
                          pricePropName,
                          priceValue) {
   // If not specified, replace with empty string
